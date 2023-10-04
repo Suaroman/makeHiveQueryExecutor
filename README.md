@@ -17,16 +17,17 @@
 
 ## Installation
 
-1. Clone the GitHub repository to your desired location:
+1. Use wget to install to your desired location:
 ```bash
-git clone [URL-of-your-GitHub-repo]
-cd [repository-name]
+wget https://raw.githubusercontent.com/Suaroman/makeHiveQueryExecutor/master/makeHiveQueryExecutor.sh
+
 ```
 
 2. Run the `makeHiveQueryExecutor.sh` script to generate the Java source and compile it:
 ```bash
 . makeHiveQueryExecutor.sh
 ```
+Please note the period and space that preface the script
 
 ## Usage
 
