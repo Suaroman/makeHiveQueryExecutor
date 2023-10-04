@@ -9,8 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
